@@ -9,4 +9,4 @@ Pueden hacer lo que quieran...
 ### Cambio heroes favoritos
 
 ## EStos son cambios desde mi repositorio local
-##EStos son camvios nuevos desde GitHub... este es otro cambio pero localmente
+##EStos son camvios nuevos desde GitHub... vamos a ver un cambio equis
