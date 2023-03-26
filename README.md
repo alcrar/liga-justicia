@@ -9,4 +9,5 @@ Pueden hacer lo que quieran...
 ### Cambio heroes favoritos
 
 ## EStos son cambios desde mi repositorio local
-##EStos son camvios nuevos desde GitHub... este es un cambio que no debería tener problemas
+##EStos son camvios nuevos desde GitHub... este es un cambio en GitHub con el curso
+No debería de haber problemas GitHub
