@@ -9,4 +9,4 @@ Pueden hacer lo que quieran...
 ### Cambio heroes favoritos
 
 ## EStos son cambios desde mi repositorio local
-##EStos son camvios nuevos desde GitHub... este es el cambio que debe de quedar
+##EStos son camvios nuevos desde GitHub... otro cambio remoto de prueba conflictivo
